@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.concurrent.ForkJoinPool;
 
 public class UsluSayilar {
     public static void main(String[] args) {
